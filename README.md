@@ -10,3 +10,5 @@ Uses Flask framework and SQLite
 https://www.geeksforgeeks.org/python-sqlite/
 
 https://www.youtube.com/watch?v=byHcYRpMgI4
+
+https://www.youtube.com/watch?v=-FWuNnCe73g
