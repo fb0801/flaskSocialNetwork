@@ -12,3 +12,5 @@ https://www.geeksforgeeks.org/python-sqlite/
 https://www.youtube.com/watch?v=byHcYRpMgI4
 
 https://www.youtube.com/watch?v=-FWuNnCe73g
+
+https://www.geeksforgeeks.org/how-to-install-flask-cors-in-python/ 
